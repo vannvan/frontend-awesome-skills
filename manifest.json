@@ -1,6 +1,6 @@
 {
   "repo": "https://github.com/vannvan/copilot-skill-pack",
-  "rawBaseUrl":"https://raw.githubusercontent.com/vannvan/copilot-skill-pack/main",
+  "rawBaseUrl":"https://raw.githubusercontent.com/vannvan/frontend-awesome-skills/main",
   "skills": [
     {
       "name":"react-ts",
