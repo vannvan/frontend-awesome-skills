@@ -1,0 +1,26 @@
+{
+  "repo": "https://github.com/vannvan/copilot-skill-pack",
+  "rawBaseUrl":"https://raw.githubusercontent.com/vannvan/copilot-skill-pack/main",
+  "skills": [
+    {
+      "name":"react-ts",
+      "desc":"React19 + TypeScript 项目开发规范",
+      "path":"skills/react-ts"
+    },
+    {
+      "name":"vue-ts",
+      "desc":"Vue3 + TypeScript 项目规范",
+      "path":"skills/vue-ts"
+    },
+    {
+      "name":"ts-utils",
+      "desc":"TS工具函数、泛型工具类规范",
+      "path":"skills/ts-utils"
+    },
+    {
+      "name":"rust-base",
+      "desc":"Rust基础开发规范",
+      "path":"skills/rust-base"
+    }
+  ]
+}
