@@ -1,0 +1,8 @@
+{
+  "github-copilot.agent.useAgentSkills": true,
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": ".github/copilot‑instructions.md"
+    }
+  ]
+}
